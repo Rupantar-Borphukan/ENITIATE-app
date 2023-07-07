@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  width: 1600px;
+  height: 1200px;
+  background: linear-gradient(191.53deg, #79f2ec 0%, #14518e 100%);
+  overflow: hidden;
+  position: absolute;
+}
+.maincontainer {
+  position: relative;
+  display: flex;
+}
+.mainbg {
+  position: relative;
+  display: flex;
+  width: 1200px;
+  height: 500px;
+  margin-top: 35px;
+  margin-left: 50px;
+  border-radius: 35px;
+  background: linear-gradient(23.55deg, #080D0D 75.24%, #173B4D 97.12%);
+  overflow: hidden;
+  z-index: 1;
+}
+.container{
+    top: 0;
+    left: 0;
+    position: relative;
+    z-index: 1;
+}
