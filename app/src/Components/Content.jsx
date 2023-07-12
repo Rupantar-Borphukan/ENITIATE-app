@@ -1,8 +1,7 @@
 import React from 'react'
 import Round from '../Assets/Ellipse1.png';
 import bg from '../Assets/home-pic.png';
-import logo from '../Assets/logo.png';
-import rectangle from "../Assets/Rectangle.png";
+
 
 // Css
 import classes from '../Components/Content.module.css';
